@@ -1,0 +1,58 @@
+Starting...
+Running suite: 4 steps
+opening url: https://srienlinea.sri.gob.ec/tuportal-internet/, HTTP GET
+Navigation requested: url=https://srienlinea.sri.gob.ec/tuportal-internet/, type=Other, willNavigate=true, isMainFrame=true
+url changed to "https://srienlinea.sri.gob.ec/tuportal-internet/"
+Successfully injected Casper client-side utilities
+start page is loaded
+Step _step 3/4 https://srienlinea.sri.gob.ec/tuportal-internet/ (HTTP 200)
+Step _step 3/4: done in 1986ms.
+Step anonymous 4/4 https://srienlinea.sri.gob.ec/tuportal-internet/ (HTTP 200)
+Step anonymous 4/4: done in 2107ms.
+Step anonymous 5/6 https://srienlinea.sri.gob.ec/tuportal-internet/ (HTTP 200)
+attempting to fetch form element from selector: 'form[action="j_security_check"]'
+Set "j_username" field value to 1792543282001
+Set "j_password" field value to ********
+submitting form to j_security_check, HTTP POST
+Step anonymous 5/6: done in 2146ms.
+Step anonymous 6/6 https://srienlinea.sri.gob.ec/tuportal-internet/ (HTTP 200)
+Step anonymous 6/6: done in 2148ms.
+Navigation requested: url=https://srienlinea.sri.gob.ec/tuportal-internet/j_security_check, type=FormSubmitted, willNavigate=true, isMainFrame=true
+Navigation requested: url=https://srienlinea.sri.gob.ec/tuportal-internet/, type=FormSubmitted, willNavigate=true, isMainFrame=true
+Navigation requested: url=https://srienlinea.sri.gob.ec/tuportal-internet/verificaEmail.jspa, type=FormSubmitted, willNavigate=true, isMainFrame=true
+url changed to "https://srienlinea.sri.gob.ec/tuportal-internet/verificaEmail.jspa"
+Successfully injected Casper client-side utilities
+opening url: https://srienlinea.sri.gob.ec/tuportal-internet/menusFavoritos.jspa?redireccion=60&idGrupo=58, HTTP GET
+Navigation requested: url=https://srienlinea.sri.gob.ec/tuportal-internet/menusFavoritos.jspa?redireccion=60&idGrupo=58, type=Other, willNavigate=true, isMainFrame=true
+Navigation requested: url=https://srienlinea.sri.gob.ec/comprobantes-electronicos-internet/pages/consultas/menu.jsf?&contextoMPT=https://srienlinea.sri.gob.ec/tuportal-internet&pathMPT=Facturaci%F3n%20Electr%F3nica%20%2F%20Producci%F3n&actualMPT=Consultas%20&linkMPT=%2Fcomprobantes-electronicos-internet%2Fpages%2Fconsultas%2Fmenu.jsf%3F&esFavorito=S, type=Other, willNavigate=true, isMainFrame=true
+Navigation requested: url=https://srienlinea.sri.gob.ec/tuportal-internet/GeneraToken.jsp?urlAplicacion=https://srienlinea.sri.gob.ec/comprobantes-electronicos-internet/pages/consultas/menu.jsf, type=Other, willNavigate=true, isMainFrame=true
+Navigation requested: url=https://srienlinea.sri.gob.ec/comprobantes-electronicos-internet/pages/consultas/menu.jsf?token=44f6ac694cda79261473658099434548, type=Other, willNavigate=true, isMainFrame=true
+url changed to "https://srienlinea.sri.gob.ec/comprobantes-electronicos-internet/pages/consultas/menu.jsf?token=44f6ac694cda79261473658099434548"
+Navigation requested: url=https://srienlinea.sri.gob.ec/comprobantes-electronicos-internet/pages/consultas/j_security_check, type=FormSubmitted, willNavigate=true, isMainFrame=true
+Successfully injected Casper client-side utilities
+Navigation requested: url=https://srienlinea.sri.gob.ec/comprobantes-electronicos-internet/pages/consultas/menu.jsf?token=44f6ac694cda79261473658099434548, type=FormSubmitted, willNavigate=true, isMainFrame=true
+Navigation requested: url=https://srienlinea.sri.gob.ec/tuportal-internet/redireccion.jspa?menu=GENERAL, type=FormSubmitted, willNavigate=true, isMainFrame=true
+Navigation requested: url=https://srienlinea.sri.gob.ec/comprobantes-electronicos-internet/pages/consultas/menu.jsf?&contextoMPT=https://srienlinea.sri.gob.ec/tuportal-internet&pathMPT=Facturaci%F3n%20Electr%F3nica%20%2F%20Producci%F3n&actualMPT=Consultas%20&linkMPT=%2Fcomprobantes-electronicos-internet%2Fpages%2Fconsultas%2Fmenu.jsf%3F&esFavorito=S, type=FormSubmitted, willNavigate=true, isMainFrame=true
+url changed to "https://srienlinea.sri.gob.ec/comprobantes-electronicos-internet/pages/consultas/menu.jsf?&contextoMPT=https://srienlinea.sri.gob.ec/tuportal-internet&pathMPT=Facturaci%F3n%20Electr%F3nica%20%2F%20Producci%F3n&actualMPT=Consultas%20&linkMPT=%2Fcomprobantes-electronicos-internet%2Fpages%2Fconsultas%2Fmenu.jsf%3F&esFavorito=S"
+Successfully injected Casper client-side utilities
+Step anonymous 8/8 https://srienlinea.sri.gob.ec/comprobantes-electronicos-internet/pages/consultas/menu.jsf?&contextoMPT=https://srienlinea.sri.gob.ec/tuportal-internet&pathMPT=Facturación Electrónica / Producción&actualMPT=Consultas &linkMPT=/comprobantes-electronicos-internet/pages/consultas/menu.jsf?&esFavorito=S (HTTP 200)
+Step anonymous 8/8: done in 9073ms.
+Step anonymous 9/9 https://srienlinea.sri.gob.ec/comprobantes-electronicos-internet/pages/consultas/menu.jsf?&contextoMPT=https://srienlinea.sri.gob.ec/tuportal-internet&pathMPT=Facturación Electrónica / Producción&actualMPT=Consultas &linkMPT=/comprobantes-electronicos-internet/pages/consultas/menu.jsf?&esFavorito=S (HTTP 200)
+Step anonymous 9/9: done in 9092ms.
+Step _step 10/11 https://srienlinea.sri.gob.ec/comprobantes-electronicos-internet/pages/consultas/menu.jsf?&contextoMPT=https://srienlinea.sri.gob.ec/tuportal-internet&pathMPT=Facturación Electrónica / Producción&actualMPT=Consultas &linkMPT=/comprobantes-electronicos-internet/pages/consultas/menu.jsf?&esFavorito=S (HTTP 200)
+Mouse event 'mousedown' on selector: xpath selector: //*[@class="sri-listaLinks"][2]//a[@href="#"]
+Mouse event 'mouseup' on selector: xpath selector: //*[@class="sri-listaLinks"][2]//a[@href="#"]
+Mouse event 'click' on selector: xpath selector: //*[@class="sri-listaLinks"][2]//a[@href="#"]
+Step _step 10/11: done in 9121ms.
+Navigation requested: url=https://srienlinea.sri.gob.ec/comprobantes-electronicos-internet/pages/consultas/menu.jsf, type=FormSubmitted, willNavigate=true, isMainFrame=true
+url changed to "https://srienlinea.sri.gob.ec/comprobantes-electronicos-internet/pages/consultas/menu.jsf"
+Successfully injected Casper client-side utilities
+Step anonymous 11/11 https://srienlinea.sri.gob.ec/comprobantes-electronicos-internet/pages/consultas/menu.jsf (HTTP 200)
+Step anonymous 11/11: done in 10237ms.
+Step anonymous 12/14 https://srienlinea.sri.gob.ec/comprobantes-electronicos-internet/pages/consultas/menu.jsf (HTTP 200)
+Step anonymous 12/14: done in 10257ms.
+Step _step 13/15 https://srienlinea.sri.gob.ec/comprobantes-electronicos-internet/pages/consultas/menu.jsf (HTTP 200)
+Step _step 13/15: done in 10277ms.
+wait() finished waiting for 2000ms.
+Navigation requested: url=about:blank, type=Other, willNavigate=true, isMainFrame=true
+url changed to "about:blank"
